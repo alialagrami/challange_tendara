@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "tendara-ai-challenge"
+version = "0.1.0"
+description = ""
+authors = ["maksympetyak <petyak.mi@gmail.com>"]
+readme = "README.md"
+packages = [
+    { include = "tendara_ai_challenge" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pydantic = "^2.9.2"
+pytest = "^8.3.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+dist/
+*.egg-info/
+
+# Poetry
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Data
+tendara_ai_challenge/data/test_notices.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
