@@ -1,1003 +1,1200 @@
 [
     {
-      "title": "Construction of New Elementary School Building",
-      "description": "Seeking contractors for the construction of a new elementary school building with modern facilities.",
-      "location": "Munich, Germany",
-      "buyer": "Munich City Education Department",
-      "volume": 5000000,
-      "cpv_codes": ["45214200-2"],
-      "publication_deadline": "2024-05-01T00:00:00",
-      "submission_deadline": "2024-06-15T00:00:00"
-    },
-    {
-      "title": "Supply of Office Cleaning Supplies",
-      "description": "Procurement of cleaning supplies for government offices, including detergents, disinfectants, and cleaning equipment.",
-      "location": "Oslo, Norway",
-      "buyer": "Norwegian Government Procurement Agency",
-      "volume": 200000,
-      "cpv_codes": ["39830000-9"],
-      "publication_deadline": "2024-03-10T00:00:00",
-      "submission_deadline": "2024-04-10T00:00:00"
-    },
-    {
-      "title": "Implementation of SAP ERP System",
-      "description": "Seeking experienced vendors for the implementation of SAP ERP systems across multiple departments.",
-      "location": "Vienna, Austria",
-      "buyer": "Austrian Ministry of Finance",
-      "volume": 1500000,
-      "cpv_codes": ["72212440-3"],
-      "publication_deadline": "2024-02-20T00:00:00",
-      "submission_deadline": "2024-03-20T00:00:00"
-    },
-    {
-      "title": "Supply of Ergonomic Chairs for AI Innovation Lab",
-      "description": "The AI Innovation Lab requires ergonomic chairs to enhance productivity and comfort for AI researchers.",
-      "location": "Berlin, Germany",
-      "buyer": "AI Innovation Lab",
-      "volume": 15000,
-      "cpv_codes": ["39113000-7"],
-      "publication_deadline": "2024-08-01T00:00:00",
-      "submission_deadline": "2025-02-10T00:00:00"
-    },
-    {
-      "title": "Road Maintenance and Repair Services",
-      "description": "Provision of road maintenance and repair services for the upcoming fiscal year.",
-      "location": "Dublin, Ireland",
-      "buyer": "Dublin City Council",
-      "volume": 800000,
-      "cpv_codes": ["45233141-9"],
-      "publication_deadline": "2024-04-15T00:00:00",
-      "submission_deadline": "2024-05-15T00:00:00"
-    },
-    {
-      "title": "Supply of Medical Equipment to City Hospital",
-      "description": "Procurement of medical equipment including MRI machines, X-ray units, and ultrasound devices.",
-      "location": "Zurich, Switzerland",
-      "buyer": "Zurich City Hospital",
-      "volume": 2500000,
-      "cpv_codes": ["33100000-1"],
-      "publication_deadline": "2024-06-05T00:00:00",
-      "submission_deadline": "2024-07-05T00:00:00"
-    },
-    {
-      "title": "Development of AI-Powered Traffic Management System",
-      "description": "The City Council of Amsterdam is seeking a provider to develop and implement an AI-powered traffic management system. The system should utilize real-time data analytics and machine learning algorithms to optimize traffic flow, reduce congestion, and improve overall transportation efficiency within the city.",
-      "location": "Amsterdam, Netherlands",
-      "buyer": "City Council of Amsterdam",
-      "volume": 250000,
-      "cpv_codes": [],
-      "publication_deadline": "2024-06-05T00:00:00",
-      "submission_deadline": "2025-08-05T00:00:00"
-    },
-    {
-      "title": "Provision of Catering Services for Public Schools",
-      "description": "Looking for suppliers to provide healthy catering services to public schools in the district.",
-      "location": "Lisbon, Portugal",
-      "buyer": "Lisbon Education Board",
-      "volume": 400000,
-      "cpv_codes": ["55524000-9"],
-      "publication_deadline": "2024-01-15T00:00:00",
-      "submission_deadline": "2024-02-15T00:00:00"
-    },
-    {
-      "title": "Upgrade of Municipal Water Treatment Plant",
-      "description": "Engineering services required for the upgrade and modernization of the municipal water treatment facilities.",
-      "location": "Helsinki, Finland",
-      "buyer": "Helsinki Water Authority",
-      "volume": 1800000,
-      "cpv_codes": ["45252126-7"],
-      "publication_deadline": "2024-07-20T00:00:00",
-      "submission_deadline": "2024-08-20T00:00:00"
-    },
-    {
-      "title": "Procurement of High-Performance GPUs for AI Computation",
-      "description": "Supply of high-end GPUs to support intensive AI computational tasks.",
-      "location": "London, UK",
-      "buyer": "National AI Computing Center",
-      "volume": 400000,
-      "cpv_codes": ["30230000-0"],
-      "publication_deadline": "2024-09-10T00:00:00",
-      "submission_deadline": "2025-04-15T00:00:00"
-    },
-    {
-      "title": "Supply of Desktop Computers and Accessories",
-      "description": "Procurement of desktop computers, monitors, and peripherals for government offices.",
-      "location": "Prague, Czech Republic",
-      "buyer": "Ministry of Interior",
-      "volume": 500000,
-      "cpv_codes": ["30213300-8"],
-      "publication_deadline": "2024-05-10T00:00:00",
-      "submission_deadline": "2024-06-10T00:00:00"
-    },
-    {
-      "title": "Public Transportation Bus Fleet Expansion",
-      "description": "Acquisition of new buses to expand the city's public transportation fleet.",
-      "location": "Warsaw, Poland",
-      "buyer": "Warsaw Public Transport Authority",
-      "volume": 3000000,
-      "cpv_codes": ["34121100-2"],
-      "publication_deadline": "2024-08-01T00:00:00",
-      "submission_deadline": "2024-09-01T00:00:00"
-    },
-    {
-      "title": "Implementation of AI Traffic Analysis System",
-      "description": "Design and implementation of an AI system to analyze and improve city traffic flow.",
-      "location": "Rome, Italy",
-      "buyer": "Rome Traffic Authority",
-      "volume": 160000,
-      "cpv_codes": ["72224000-1"],
-      "publication_deadline": "2023-03-25T00:00:00",
-      "submission_deadline": "2023-05-25T00:00:00"
-    },
-    {
-      "title": "Library Management Software Implementation",
-      "description": "Seeking providers for the implementation of library management software across municipal libraries.",
-      "location": "Brussels, Belgium",
-      "buyer": "Brussels City Library Network",
-      "volume": 250000,
-      "cpv_codes": ["48160000-7"],
-      "publication_deadline": "2024-02-25T00:00:00",
-      "submission_deadline": "2024-03-25T00:00:00"
-    },
-    {
-      "title": "Renovation of Historic City Hall",
-      "description": "Seeking contractors specialized in historic building renovations for the City Hall.",
-      "location": "Edinburgh, Scotland",
-      "buyer": "Edinburgh City Council",
-      "volume": 1200000,
-      "cpv_codes": ["45453100-8"],
-      "publication_deadline": "2024-03-05T00:00:00",
-      "submission_deadline": "2024-04-05T00:00:00"
-    },
-    {
-      "title": "Supply of AI Optimized Servers",
-      "description": "Acquisition of servers optimized for AI and machine learning workloads.",
-      "location": "Paris, France",
-      "buyer": "European AI Research Institute",
-      "volume": 600000,
-      "cpv_codes": ["48820000-2"],
-      "publication_deadline": "2024-07-20T00:00:00",
-      "submission_deadline": "2025-06-20T00:00:00"
-    },
-    {
-      "title": "Procurement of Police Vehicles",
-      "description": "Acquisition of new patrol cars and motorcycles for the city police department.",
-      "location": "Barcelona, Spain",
-      "buyer": "Barcelona Police Department",
-      "volume": 800000,
-      "cpv_codes": ["34114200-1"],
-      "publication_deadline": "2024-04-20T00:00:00",
-      "submission_deadline": "2024-05-20T00:00:00"
-    },
-    {
-      "title": "Installation of Solar Panels on Public Buildings",
-      "description": "Project to install solar panels on various public buildings to promote renewable energy use.",
-      "location": "Athens, Greece",
-      "buyer": "Athens Renewable Energy Agency",
-      "volume": 950000,
-      "cpv_codes": ["09332000-5"],
-      "publication_deadline": "2024-05-15T00:00:00",
-      "submission_deadline": "2024-06-15T00:00:00"
-    },
-    {
-      "title": "Supply of Classroom Furniture",
-      "description": "Procurement of desks, chairs, and storage units for new educational facilities.",
-      "location": "Budapest, Hungary",
-      "buyer": "Budapest School District",
-      "volume": 300000,
-      "cpv_codes": ["39160000-1"],
-      "publication_deadline": "2024-02-10T00:00:00",
-      "submission_deadline": "2024-03-10T00:00:00"
-    },
-    {
-      "title": "Maintenance Services for Government Vehicles",
-      "description": "Provision of regular maintenance and repair services for the government vehicle fleet.",
-      "location": "Stockholm, Sweden",
-      "buyer": "Swedish Government Fleet Management",
-      "volume": 600000,
-      "cpv_codes": ["50111000-6"],
-      "publication_deadline": "2024-06-25T00:00:00",
-      "submission_deadline": "2024-07-25T00:00:00"
-    },
-    {
-      "title": "AI-Based Waste Management Optimization",
-      "description": "Development of an AI solution to optimize waste collection routes.",
-      "location": "Vienna, Austria",
-      "buyer": "Vienna Waste Management Services",
-      "volume": 70000,
-      "cpv_codes": ["72200000-7"],
-      "publication_deadline": "2024-05-10T00:00:00",
-      "submission_deadline": "2025-10-10T00:00:00"
-    },
-    {
-      "title": "Development of Municipal Website",
-      "description": "Seeking web development services to create a new, user-friendly municipal website.",
-      "location": "Tallinn, Estonia",
-      "buyer": "Tallinn City Council",
-      "volume": 150000,
-      "cpv_codes": ["72413000-8"],
-      "publication_deadline": "2024-03-30T00:00:00",
-      "submission_deadline": "2024-04-30T00:00:00"
-    },
-    {
-      "title": "Supply of Firefighting Equipment",
-      "description": "Procurement of hoses, nozzles, protective gear, and other firefighting equipment.",
-      "location": "Riga, Latvia",
-      "buyer": "Riga Fire Department",
-      "volume": 400000,
-      "cpv_codes": ["35111000-5"],
-      "publication_deadline": "2024-05-05T00:00:00",
-      "submission_deadline": "2024-06-05T00:00:00"
-    },
-    {
-      "title": "Machine Learning Model for Energy Consumption Forecasting",
-      "description": "Creation of a machine learning model to predict and optimize energy consumption.",
-      "location": "Copenhagen, Denmark",
-      "buyer": "Copenhagen Energy Agency",
-      "volume": 85000,
-      "cpv_codes": ["72212000-4"],
-      "publication_deadline": "2024-10-15T00:00:00",
-      "submission_deadline": "2025-12-15T00:00:00"
-    },
-    {
-      "title": "Printing Services for Government Publications",
-      "description": "Provision of printing services for official documents, brochures, and reports.",
-      "location": "Sofia, Bulgaria",
-      "buyer": "Ministry of Information",
-      "volume": 250000,
-      "cpv_codes": ["79810000-5"],
-      "publication_deadline": "2024-04-12T00:00:00",
-      "submission_deadline": "2024-05-12T00:00:00"
-    },
-    {
-      "title": "Waste Collection and Disposal Services",
-      "description": "Contract for the collection and environmentally friendly disposal of municipal waste.",
-      "location": "Copenhagen, Denmark",
-      "buyer": "Copenhagen Waste Management Agency",
-      "volume": 900000,
-      "cpv_codes": ["90511000-2"],
-      "publication_deadline": "2024-07-01T00:00:00",
-      "submission_deadline": "2024-08-01T00:00:00"
-    },
-    {
-      "title": "Supply of Agricultural Machinery",
-      "description": "Procurement of tractors, plows, and harvesters for agricultural training centers.",
-      "location": "Bucharest, Romania",
-      "buyer": "Romanian Agricultural Development Agency",
-      "volume": 1200000,
-      "cpv_codes": ["16700000-2"],
-      "publication_deadline": "2024-02-28T00:00:00",
-      "submission_deadline": "2024-03-28T00:00:00"
-    },
-    {
-      "title": "Reconstruction of City Park",
-      "description": "Project includes landscaping, installation of playgrounds, and creation of walking paths.",
-      "location": "Ljubljana, Slovenia",
-      "buyer": "Ljubljana Parks and Recreation Department",
-      "volume": 700000,
-      "cpv_codes": ["45112711-2"],
-      "publication_deadline": "2024-04-18T00:00:00",
-      "submission_deadline": "2024-05-18T00:00:00"
-    },
-    {
-      "title": "Translation Services for Official Documents",
-      "description": "Provision of translation services for legal and administrative documents.",
-      "location": "Bratislava, Slovakia",
-      "buyer": "Ministry of Foreign Affairs",
-      "volume": 180000,
-      "cpv_codes": ["79530000-8"],
-      "publication_deadline": "2024-03-22T00:00:00",
-      "submission_deadline": "2024-04-22T00:00:00"
-    },
-    {
-      "title": "Supply of Laboratory Equipment",
-      "description": "Procurement of microscopes, centrifuges, and other equipment for research labs.",
-      "location": "Paris, France",
-      "buyer": "French National Research Center",
-      "volume": 2200000,
-      "cpv_codes": ["38430000-8"],
-      "publication_deadline": "2024-06-08T00:00:00",
-      "submission_deadline": "2024-07-08T00:00:00"
-    },
-    {
-      "title": "Construction of Wastewater Treatment Facility",
-      "description": "Building a new wastewater treatment plant to serve the expanding urban area.",
-      "location": "Rome, Italy",
-      "buyer": "Rome Municipal Utilities",
-      "volume": 3500000,
-      "cpv_codes": ["45252127-4"],
-      "publication_deadline": "2024-05-25T00:00:00",
-      "submission_deadline": "2024-06-25T00:00:00"
-    },
-    {
-      "title": "Procurement of Educational Software Licenses",
-      "description": "Acquisition of software licenses for educational purposes in public schools.",
-      "location": "Berlin, Germany",
-      "buyer": "Berlin Department of Education",
-      "volume": 500000,
-      "cpv_codes": ["48190000-6"],
-      "publication_deadline": "2024-02-05T00:00:00",
-      "submission_deadline": "2024-03-05T00:00:00"
-    },
-    {
-      "title": "Natural Language Processing for Document Digitization",
-      "description": "Implementation of NLP techniques to digitize and analyze historical documents.",
-      "location": "Helsinki, Finland",
-      "buyer": "Finnish National Archives",
-      "volume": 65000,
-      "cpv_codes": ["72243000-0"],
-      "publication_deadline": "2024-09-20T00:00:00",
-      "submission_deadline": "2025-12-31T00:00:00"
-    },
-    {
-      "title": "Supply of Office Furniture",
-      "description": "Procurement of desks, chairs, filing cabinets, and other office furniture.",
-      "location": "Amsterdam, Netherlands",
-      "buyer": "Dutch Ministry of Health",
-      "volume": 350000,
-      "cpv_codes": ["39130000-2"],
-      "publication_deadline": "2024-04-28T00:00:00",
-      "submission_deadline": "2024-05-28T00:00:00"
-    },
-    {
-      "title": "Maintenance of Public Lighting Systems",
-      "description": "Contract for the maintenance and repair of street lighting throughout the city.",
-      "location": "Vienna, Austria",
-      "buyer": "Vienna Municipal Services",
-      "volume": 650000,
-      "cpv_codes": ["50232100-1"],
-      "publication_deadline": "2024-03-18T00:00:00",
-      "submission_deadline": "2024-04-18T00:00:00"
-    },
-    {
-      "title": "Provision of Legal Advisory Services",
-      "description": "Seeking legal firms to provide advisory services on international trade agreements.",
-      "location": "London, UK",
-      "buyer": "Department for International Trade",
-      "volume": 1000000,
-      "cpv_codes": ["79100000-5"],
-      "publication_deadline": "2024-05-12T00:00:00",
-      "submission_deadline": "2024-06-12T00:00:00"
-    },
-    {
-      "title": "Construction of Community Sports Center",
-      "description": "Building a new sports facility including swimming pools, gyms, and courts.",
-      "location": "Lisbon, Portugal",
-      "buyer": "Lisbon Municipal Sports Authority",
-      "volume": 2800000,
-      "cpv_codes": ["45212220-4"],
-      "publication_deadline": "2024-06-02T00:00:00",
-      "submission_deadline": "2024-07-02T00:00:00"
-    },
-    {
-      "title": "Supply of Books for Public Libraries",
-      "description": "Procurement of books and educational materials for distribution to public libraries.",
-      "location": "Helsinki, Finland",
-      "buyer": "Finnish National Library",
-      "volume": 300000,
-      "cpv_codes": ["22113000-5"],
-      "publication_deadline": "2024-02-18T00:00:00",
-      "submission_deadline": "2024-03-18T00:00:00"
-    },
-    {
-      "title": "IT Infrastructure Upgrade",
-      "description": "Upgrade of servers, networking equipment, and storage solutions for government data centers.",
-      "location": "Madrid, Spain",
-      "buyer": "Spanish Ministry of Technology",
-      "volume": 2000000,
-      "cpv_codes": ["30210000-4"],
-      "publication_deadline": "2024-05-22T00:00:00",
-      "submission_deadline": "2024-06-22T00:00:00"
-    },
-    {
-      "title": "Development of AI Chatbot for Citizen Engagement",
-      "description": "Creation of an AI-powered chatbot to improve citizen engagement and service delivery.",
-      "location": "Madrid, Spain",
-      "buyer": "Municipality of Madrid",
-      "volume": 55000,
-      "cpv_codes": ["72243000-0"],
-      "publication_deadline": "2024-01-10T00:00:00",
-      "submission_deadline": "2024-03-10T00:00:00"
-    },
-    {
-      "title": "Provision of Public Relations Services",
-      "description": "Seeking PR firms to manage public communication campaigns for health initiatives.",
-      "location": "Paris, France",
-      "buyer": "French Ministry of Health",
-      "volume": 750000,
-      "cpv_codes": ["79416200-5"],
-      "publication_deadline": "2024-03-07T00:00:00",
-      "submission_deadline": "2024-04-07T00:00:00"
-    },
-    {
-      "title": "Procurement of Office Stationery",
-      "description": "Supply of pens, paper, folders, and other stationery items for government offices.",
-      "location": "Athens, Greece",
-      "buyer": "Greek Administrative Services",
-      "volume": 150000,
-      "cpv_codes": ["30192700-8"],
-      "publication_deadline": "2024-02-12T00:00:00",
-      "submission_deadline": "2024-03-12T00:00:00"
-    },
-    {
-      "title": "Installation of CCTV Systems",
-      "description": "Installation of CCTV cameras and monitoring systems in public areas.",
-      "location": "Budapest, Hungary",
-      "buyer": "Budapest Security Agency",
-      "volume": 500000,
-      "cpv_codes": ["32235000-9"],
-      "publication_deadline": "2024-04-09T00:00:00",
-      "submission_deadline": "2024-05-09T00:00:00"
-    },
-    {
-      "title": "Construction of Pedestrian Bridges",
-      "description": "Building pedestrian bridges over major roadways to improve safety.",
-      "location": "Prague, Czech Republic",
-      "buyer": "Prague Urban Development Department",
-      "volume": 1100000,
-      "cpv_codes": ["45221113-7"],
-      "publication_deadline": "2024-05-19T00:00:00",
-      "submission_deadline": "2024-06-19T00:00:00"
-    },
-    {
-      "title": "Supply of Traffic Signal Equipment",
-      "description": "Procurement of traffic lights, controllers, and related equipment.",
-      "location": "Warsaw, Poland",
-      "buyer": "Warsaw Traffic Management Authority",
-      "volume": 600000,
-      "cpv_codes": ["34996100-9"],
-      "publication_deadline": "2024-06-14T00:00:00",
-      "submission_deadline": "2024-07-14T00:00:00"
-    },
-    {
-      "title": "Provision of Employee Training Programs",
-      "description": "Seeking firms to provide professional development and training services for government employees.",
-      "location": "Brussels, Belgium",
-      "buyer": "European Commission HR Department",
-      "volume": 900000,
-      "cpv_codes": ["80511000-9"],
-      "publication_deadline": "2024-02-08T00:00:00",
-      "submission_deadline": "2024-03-08T00:00:00"
-    },
-    {
-      "title": "Refurbishment of Public Housing Units",
-      "description": "Renovation and modernization of existing public housing apartments.",
-      "location": "Berlin, Germany",
-      "buyer": "Berlin Housing Authority",
-      "volume": 2500000,
-      "cpv_codes": ["45453100-8"],
-      "publication_deadline": "2024-03-25T00:00:00",
-      "submission_deadline": "2024-04-25T00:00:00"
-    },
-    {
-      "title": "Supply of Uniforms for Public Service Employees",
-      "description": "Procurement of uniforms and workwear for various public service departments.",
-      "location": "Vienna, Austria",
-      "buyer": "Austrian Public Service Commission",
-      "volume": 350000,
-      "cpv_codes": ["18100000-0"],
-      "publication_deadline": "2024-05-17T00:00:00",
-      "submission_deadline": "2024-06-17T00:00:00"
-    },
-    {
-      "title": "Implementation of Document Management System",
-      "description": "Seeking vendors to implement a digital document management system for municipal records.",
-      "location": "Stockholm, Sweden",
-      "buyer": "Stockholm City Administration",
-      "volume": 800000,
-      "cpv_codes": ["72222300-0"],
-      "publication_deadline": "2024-04-03T00:00:00",
-      "submission_deadline": "2024-05-03T00:00:00"
-    },
-    {
-      "title": "Maintenance of Parks and Green Spaces",
-      "description": "Contract for landscaping, gardening, and maintenance of public parks.",
-      "location": "Dublin, Ireland",
-      "buyer": "Dublin Parks Department",
-      "volume": 550000,
-      "cpv_codes": ["77313000-7"],
-      "publication_deadline": "2024-06-07T00:00:00",
-      "submission_deadline": "2024-07-07T00:00:00"
-    },
-    {
-      "title": "Supply of Laboratory Chemicals",
-      "description": "Procurement of chemicals and reagents for educational laboratories.",
-      "location": "Copenhagen, Denmark",
-      "buyer": "Danish Education Authority",
-      "volume": 300000,
-      "cpv_codes": ["33696300-8"],
-      "publication_deadline": "2024-02-14T00:00:00",
-      "submission_deadline": "2024-03-14T00:00:00"
-    },
-    {
-      "title": "Provision of Audit Services",
-      "description": "Seeking auditing firms to conduct financial audits of various government departments.",
-      "location": "Oslo, Norway",
-      "buyer": "Norwegian Ministry of Finance",
-      "volume": 1000000,
-      "cpv_codes": ["79212000-3"],
-      "publication_deadline": "2024-05-29T00:00:00",
-      "submission_deadline": "2024-06-29T00:00:00"
-    },
-    {
-      "title": "Construction of Waste Recycling Facility",
-      "description": "Building a new facility for sorting and recycling municipal waste.",
-      "location": "Rome, Italy",
-      "buyer": "Rome Waste Management Authority",
-      "volume": 2700000,
-      "cpv_codes": ["45222100-0"],
-      "publication_deadline": "2024-06-19T00:00:00",
-      "submission_deadline": "2024-07-19T00:00:00"
-    },
-    {
-      "title": "Supply of Fuel for Government Vehicles",
-      "description": "Contract for the supply of gasoline and diesel fuel for the government vehicle fleet.",
-      "location": "Madrid, Spain",
-      "buyer": "Spanish Government Fleet Services",
-      "volume": 2000000,
-      "cpv_codes": ["09100000-0"],
-      "publication_deadline": "2024-03-12T00:00:00",
-      "submission_deadline": "2024-04-12T00:00:00"
-    },
-    {
-      "title": "AI Solution for Predictive Healthcare Analysis",
-      "description": "Development of an AI system to predict patient admission rates.",
-      "location": "Stockholm, Sweden",
-      "buyer": "Stockholm Health Authority",
-      "volume": 90000,
-      "cpv_codes": ["72261000-2"],
-      "publication_deadline": "2024-04-01T00:00:00",
-      "submission_deadline": "2025-09-01T00:00:00"
-    },
-    {
-      "title": "Provision of Translation and Interpretation Services",
-      "description": "Seeking professionals for translation and interpretation services in multiple languages.",
-      "location": "Brussels, Belgium",
-      "buyer": "European Parliament",
-      "volume": 1500000,
-      "cpv_codes": ["79540000-1"],
-      "publication_deadline": "2024-02-02T00:00:00",
-      "submission_deadline": "2024-03-02T00:00:00"
-    },
-    {
-      "title": "Installation of Energy-Efficient Lighting",
-      "description": "Project to replace existing lighting with energy-efficient LED systems in public buildings.",
-      "location": "Amsterdam, Netherlands",
-      "buyer": "Amsterdam Energy Agency",
-      "volume": 700000,
-      "cpv_codes": ["31527260-6"],
-      "publication_deadline": "2024-04-27T00:00:00",
-      "submission_deadline": "2024-05-27T00:00:00"
-    },
-    {
-      "title": "Supply of School Buses",
-      "description": "Procurement of new school buses to transport students in rural areas.",
-      "location": "Helsinki, Finland",
-      "buyer": "Finnish Ministry of Education",
-      "volume": 1200000,
-      "cpv_codes": ["34121000-1"],
-      "publication_deadline": "2024-05-09T00:00:00",
-      "submission_deadline": "2024-06-09T00:00:00"
-    },
-    {
-      "title": "Provision of Event Management Services",
-      "description": "Seeking firms to organize and manage government conferences and public events.",
-      "location": "Vienna, Austria",
-      "buyer": "Austrian Cultural Affairs Department",
-      "volume": 400000,
-      "cpv_codes": ["79952000-2"],
-      "publication_deadline": "2024-03-15T00:00:00",
-      "submission_deadline": "2024-04-15T00:00:00"
-    },
-    {
-      "title": "Construction of Sewage Pipeline Network",
-      "description": "Expansion of the city's sewage pipeline network to accommodate new developments.",
-      "location": "Lisbon, Portugal",
-      "buyer": "Lisbon Water and Sewage Department",
-      "volume": 1800000,
-      "cpv_codes": ["45232410-9"],
-      "publication_deadline": "2024-06-11T00:00:00",
-      "submission_deadline": "2024-07-11T00:00:00"
-    },
-    {
-      "title": "Procurement of Medical Supplies",
-      "description": "Supply of syringes, gloves, and other disposable medical supplies to hospitals.",
-      "location": "Berlin, Germany",
-      "buyer": "German Federal Health Agency",
-      "volume": 800000,
-      "cpv_codes": ["33140000-3"],
-      "publication_deadline": "2024-04-01T00:00:00",
-      "submission_deadline": "2024-05-01T00:00:00"
-    },
-    {
-      "title": "Supply of Asphalt for Roadworks",
-      "description": "Provision of asphalt materials for upcoming road construction projects.",
-      "location": "Athens, Greece",
-      "buyer": "Greek Ministry of Transportation",
-      "volume": 900000,
-      "cpv_codes": ["44113620-7"],
-      "publication_deadline": "2024-05-26T00:00:00",
-      "submission_deadline": "2024-06-26T00:00:00"
-    },
-    {
-      "title": "Implementation of Financial Management Software",
-      "description": "Seeking vendors to implement new financial management software for municipal accounting.",
-      "location": "Prague, Czech Republic",
-      "buyer": "Prague City Financial Department",
-      "volume": 600000,
-      "cpv_codes": ["48442000-8"],
-      "publication_deadline": "2024-02-16T00:00:00",
-      "submission_deadline": "2024-03-16T00:00:00"
-    },
-    {
-      "title": "Supply of Police Uniforms",
-      "description": "Procurement of uniforms and accessories for the national police force.",
-      "location": "Warsaw, Poland",
-      "buyer": "Polish National Police Headquarters",
-      "volume": 500000,
-      "cpv_codes": ["35811200-7"],
-      "publication_deadline": "2024-03-28T00:00:00",
-      "submission_deadline": "2024-04-28T00:00:00"
-    },
-    {
-      "title": "Construction of New Public Library",
-      "description": "Building a modern public library with digital facilities and community spaces.",
-      "location": "Sofia, Bulgaria",
-      "buyer": "Sofia Municipal Council",
-      "volume": 2400000,
-      "cpv_codes": ["45212330-8"],
-      "publication_deadline": "2024-05-06T00:00:00",
-      "submission_deadline": "2024-06-06T00:00:00"
-    },
-    {
-      "title": "Provision of Security Services",
-      "description": "Contract for security personnel to safeguard government buildings.",
-      "location": "London, UK",
-      "buyer": "UK Government Property Agency",
-      "volume": 1300000,
-      "cpv_codes": ["79710000-4"],
-      "publication_deadline": "2024-06-21T00:00:00",
-      "submission_deadline": "2024-07-21T00:00:00"
-    },
-    {
-      "title": "Supply of Food Products for Hospitals",
-      "description": "Procurement of fresh and packaged food products for patient meals.",
-      "location": "Paris, France",
-      "buyer": "Paris Health Services",
-      "volume": 750000,
-      "cpv_codes": ["15800000-6"],
-      "publication_deadline": "2024-04-24T00:00:00",
-      "submission_deadline": "2024-05-24T00:00:00"
-    },
-    {
-      "title": "Provision of Architectural Services",
-      "description": "Seeking architectural firms for the design of new government office buildings.",
-      "location": "Berlin, Germany",
-      "buyer": "German Federal Real Estate Agency",
-      "volume": 2000000,
-      "cpv_codes": ["71220000-6"],
-      "publication_deadline": "2024-05-30T00:00:00",
-      "submission_deadline": "2024-06-30T00:00:00"
-    },
-    {
-      "title": "Installation of Air Conditioning Systems",
-      "description": "Supply and installation of HVAC systems in public schools.",
-      "location": "Budapest, Hungary",
-      "buyer": "Hungarian Ministry of Education",
-      "volume": 850000,
-      "cpv_codes": ["42512000-8"],
-      "publication_deadline": "2024-06-16T00:00:00",
-      "submission_deadline": "2024-07-16T00:00:00"
-    },
-    {
-      "title": "Maintenance of IT Systems",
-      "description": "Contract for the maintenance and support of government IT infrastructure.",
-      "location": "Vienna, Austria",
-      "buyer": "Austrian Federal Computing Centre",
-      "volume": 900000,
-      "cpv_codes": ["72267000-4"],
-      "publication_deadline": "2024-03-11T00:00:00",
-      "submission_deadline": "2024-04-11T00:00:00"
-    },
-    {
-      "title": "Supply of Construction Materials",
-      "description": "Procurement of bricks, cement, and other materials for municipal projects.",
-      "location": "Rome, Italy",
-      "buyer": "Rome Public Works Department",
-      "volume": 1000000,
-      "cpv_codes": ["44111000-1"],
-      "publication_deadline": "2024-04-14T00:00:00",
-      "submission_deadline": "2024-05-14T00:00:00"
-    },
-    {
-      "title": "Provision of Wastewater Analysis Services",
-      "description": "Laboratory services required for the analysis of wastewater samples.",
-      "location": "Amsterdam, Netherlands",
-      "buyer": "Dutch Water Authority",
-      "volume": 400000,
-      "cpv_codes": ["90733100-5"],
-      "publication_deadline": "2024-05-02T00:00:00",
-      "submission_deadline": "2024-06-02T00:00:00"
-    },
-    {
-      "title": "Supply of Emergency Medical Vehicles",
-      "description": "Procurement of ambulances and emergency response vehicles.",
-      "location": "Oslo, Norway",
-      "buyer": "Norwegian Health Directorate",
-      "volume": 1500000,
-      "cpv_codes": ["34114121-3"],
-      "publication_deadline": "2024-04-06T00:00:00",
-      "submission_deadline": "2024-05-06T00:00:00"
-    },
-    {
-      "title": "Installation of Public Wi-Fi Networks",
-      "description": "Project to install free Wi-Fi hotspots in public spaces across the city.",
-      "location": "Lisbon, Portugal",
-      "buyer": "Lisbon Digital Services",
-      "volume": 600000,
-      "cpv_codes": ["32412110-8"],
-      "publication_deadline": "2024-03-09T00:00:00",
-      "submission_deadline": "2024-04-09T00:00:00"
-    },
-    {
-      "title": "Supply of Office Printers and Scanners",
-      "description": "Procurement of multifunctional printers and scanners for government departments.",
-      "location": "Sofia, Bulgaria",
-      "buyer": "Bulgarian Ministry of Administration",
-      "volume": 350000,
-      "cpv_codes": ["30232100-5"],
-      "publication_deadline": "2024-05-13T00:00:00",
-      "submission_deadline": "2024-06-13T00:00:00"
-    },
-    {
-      "title": "Construction of Bicycle Lanes",
-      "description": "Development of new bicycle lanes to promote sustainable transportation.",
-      "location": "Copenhagen, Denmark",
-      "buyer": "Copenhagen Transportation Department",
-      "volume": 800000,
-      "cpv_codes": ["45233162-2"],
-      "publication_deadline": "2024-06-23T00:00:00",
-      "submission_deadline": "2024-07-23T00:00:00"
-    },
-    {
-      "title": "Provision of Pest Control Services",
-      "description": "Contract for pest control services in public buildings and parks.",
-      "location": "Tallinn, Estonia",
-      "buyer": "Tallinn Public Health Department",
-      "volume": 200000,
-      "cpv_codes": ["90922000-6"],
-      "publication_deadline": "2024-02-22T00:00:00",
-      "submission_deadline": "2024-03-22T00:00:00"
-    },
-    {
-      "title": "Supply of Musical Instruments",
-      "description": "Procurement of musical instruments for public schools and cultural centers.",
-      "location": "Riga, Latvia",
-      "buyer": "Riga Cultural Affairs Department",
-      "volume": 250000,
-      "cpv_codes": ["37310000-4"],
-      "publication_deadline": "2024-04-04T00:00:00",
-      "submission_deadline": "2024-05-04T00:00:00"
-    },
-    {
-      "title": "Implementation of E-Government Services",
-      "description": "Seeking providers to develop and implement online government service portals.",
-      "location": "Bratislava, Slovakia",
-      "buyer": "Slovak Ministry of Digitalization",
-      "volume": 1100000,
-      "cpv_codes": ["72253000-3"],
-      "publication_deadline": "2024-03-14T00:00:00",
-      "submission_deadline": "2024-04-14T00:00:00"
-    },
-    {
-      "title": "Supply of Agricultural Fertilizers",
-      "description": "Procurement of fertilizers for distribution to local farmers.",
-      "location": "Bucharest, Romania",
-      "buyer": "Romanian Agricultural Support Agency",
-      "volume": 600000,
-      "cpv_codes": ["24450000-3"],
-      "publication_deadline": "2024-05-08T00:00:00",
-      "submission_deadline": "2024-06-08T00:00:00"
-    },
-    {
-      "title": "Maintenance of Railway Infrastructure",
-      "description": "Provision of maintenance services for tracks, signals, and stations.",
-      "location": "Helsinki, Finland",
-      "buyer": "Finnish Railways Corporation",
-      "volume": 2200000,
-      "cpv_codes": ["50220000-3"],
-      "publication_deadline": "2024-06-29T00:00:00",
-      "submission_deadline": "2024-07-29T00:00:00"
-    },
-    {
-      "title": "Provision of Vocational Training Programs",
-      "description": "Seeking organizations to provide vocational training for unemployed youth.",
-      "location": "Tallinn, Estonia",
-      "buyer": "Estonian Ministry of Labor",
-      "volume": 700000,
-      "cpv_codes": ["80530000-8"],
-      "publication_deadline": "2024-04-16T00:00:00",
-      "submission_deadline": "2024-05-16T00:00:00"
-    },
-    {
-      "title": "Supply of Veterinary Medicines",
-      "description": "Procurement of medicines and vaccines for municipal animal shelters.",
-      "location": "Lisbon, Portugal",
-      "buyer": "Lisbon Animal Welfare Department",
-      "volume": 180000,
-      "cpv_codes": ["33670000-5"],
-      "publication_deadline": "2024-02-07T00:00:00",
-      "submission_deadline": "2024-03-07T00:00:00"
-    },
-    {
-      "title": "Renovation of Sports Stadium",
-      "description": "Upgrading facilities, seating, and turf at the national sports stadium.",
-      "location": "Warsaw, Poland",
-      "buyer": "Polish Sports Association",
-      "volume": 3200000,
-      "cpv_codes": ["45212224-2"],
-      "publication_deadline": "2024-05-21T00:00:00",
-      "submission_deadline": "2024-06-21T00:00:00"
-    },
-    {
-      "title": "Provision of Courier Services",
-      "description": "Contract for courier services to handle government document deliveries.",
-      "location": "Stockholm, Sweden",
-      "buyer": "Swedish Postal Service",
-      "volume": 500000,
-      "cpv_codes": ["64120000-3"],
-      "publication_deadline": "2024-03-06T00:00:00",
-      "submission_deadline": "2024-04-06T00:00:00"
-    },
-    {
-      "title": "Construction of Maritime Port Facilities",
-      "description": "Expansion and modernization of port facilities to accommodate larger vessels.",
-      "location": "Athens, Greece",
-      "buyer": "Greek Port Authority",
-      "volume": 4500000,
-      "cpv_codes": ["45241000-8"],
-      "publication_deadline": "2024-06-26T00:00:00",
-      "submission_deadline": "2024-07-26T00:00:00"
-    },
-    {
-      "title": "Supply of Printing Paper",
-      "description": "Procurement of various types of paper for printing and copying.",
-      "location": "Berlin, Germany",
-      "buyer": "German Federal Procurement Agency",
-      "volume": 300000,
-      "cpv_codes": ["30197630-1"],
-      "publication_deadline": "2024-04-11T00:00:00",
-      "submission_deadline": "2024-05-11T00:00:00"
-    },
-    {
-      "title": "Provision of Data Center Hosting Services",
-      "description": "Seeking providers for secure data center hosting and management services.",
-      "location": "London, UK",
-      "buyer": "UK Government Digital Service",
-      "volume": 1800000,
-      "cpv_codes": ["72514000-4"],
-      "publication_deadline": "2024-05-04T00:00:00",
-      "submission_deadline": "2024-06-04T00:00:00"
-    },
-    {
-      "title": "Installation of Fire Alarm Systems",
-      "description": "Supply and installation of fire detection and alarm systems in public buildings.",
-      "location": "Prague, Czech Republic",
-      "buyer": "Prague Fire Safety Department",
-      "volume": 650000,
-      "cpv_codes": ["31625200-5"],
-      "publication_deadline": "2024-03-31T00:00:00",
-      "submission_deadline": "2024-04-30T00:00:00"
-    },
-    {
-      "title": "Construction of Underground Parking Facilities",
-      "description": "Development of new underground parking structures in the city center.",
-      "location": "Barcelona, Spain",
-      "buyer": "Barcelona Urban Planning Authority",
-      "volume": 2900000,
-      "cpv_codes": ["45223310-2"],
-      "publication_deadline": "2024-06-01T00:00:00",
-      "submission_deadline": "2024-07-01T00:00:00"
-    },
-    {
-        "title": "Supply of Medical Laboratory Equipment",
-        "description": "Procurement of equipment for medical laboratories, including microscopes and testing machines.",
-        "location": "Geneva, Switzerland",
-        "buyer": "Swiss Federal Health Department",
-        "volume": 1500000,
-        "cpv_codes": ["33110000-4"],
-        "publication_deadline": "2024-03-15T00:00:00",
-        "submission_deadline": "2024-04-15T00:00:00"
-      },
-      {
-        "title": "Construction of Highway Overpass",
-        "description": "Construction of a new overpass to improve traffic flow on the main highway.",
-        "location": "Lyon, France",
-        "buyer": "French Department of Transportation",
-        "volume": 4000000,
-        "cpv_codes": ["45221111-3"],
-        "publication_deadline": "2024-05-20T00:00:00",
-        "submission_deadline": "2024-06-20T00:00:00"
-      },
-      {
-        "title": "Supply of School Textbooks",
-        "description": "Procurement of textbooks for primary and secondary schools for the upcoming academic year.",
-        "location": "Vienna, Austria",
-        "buyer": "Austrian Ministry of Education",
-        "volume": 800000,
-        "cpv_codes": ["22111000-1"],
-        "publication_deadline": "2024-04-10T00:00:00",
-        "submission_deadline": "2024-05-10T00:00:00"
-      },
-      {
-        "title": "Provision of Cleaning Services",
-        "description": "Contract for daily cleaning services of government office buildings.",
-        "location": "Stockholm, Sweden",
-        "buyer": "Swedish Government Facilities Management",
-        "volume": 500000,
-        "cpv_codes": ["90910000-9"],
-        "publication_deadline": "2024-03-18T00:00:00",
-        "submission_deadline": "2024-04-18T00:00:00"
-      },
-      {
-        "title": "Installation of New Water Mains",
-        "description": "Project to install new water mains to improve water supply in the city.",
+        "title": "Supply and Installation of Solar Panels for Municipal Buildings",
+        "description": "Seeking qualified contractors to supply and install photovoltaic solar panels on multiple municipal buildings to enhance renewable energy usage and reduce carbon footprint. The project includes maintenance services for a period of 5 years.",
+        "location": "Munich, Germany",
+        "buyer": "Munich City Council",
+        "volume": 300000,
+        "cpv_codes": [
+            "09330000-1"
+        ],
+        "publication_deadline": "2024-11-15T00:00:00",
+        "submission_deadline": "2025-01-31T00:00:00"
+    },
+    {
+        "title": "Construction of New Public Library Facility",
+        "description": "Invitation to tender for the construction of a modern public library, including architectural design, civil engineering, and interior fit-out. The building should meet green building standards and be accessible to all citizens.",
         "location": "Dublin, Ireland",
-        "buyer": "Dublin Water Authority",
+        "buyer": "Dublin Public Works Department",
         "volume": 2000000,
-        "cpv_codes": ["45232150-8"],
-        "publication_deadline": "2024-04-25T00:00:00",
-        "submission_deadline": "2024-05-25T00:00:00"
-      },
-      {
-        "title": "Supply of Office IT Equipment",
-        "description": "Procurement of laptops, printers, and networking equipment for government departments.",
-        "location": "Brussels, Belgium",
-        "buyer": "Belgian Federal IT Agency",
-        "volume": 1200000,
-        "cpv_codes": ["30200000-1"],
-        "publication_deadline": "2024-02-28T00:00:00",
-        "submission_deadline": "2024-03-28T00:00:00"
-      },
-      {
-        "title": "Provision of Catering Services for Military Personnel",
-        "description": "Seeking suppliers to provide catering services at military bases.",
+        "cpv_codes": [
+            "45212300-9"
+        ],
+        "publication_deadline": "2024-12-01T00:00:00",
+        "submission_deadline": "2025-03-15T00:00:00"
+    },
+    {
+        "title": "Provision of Cleaning Services for Public Schools",
+        "description": "Request for proposals from experienced cleaning service providers to maintain hygiene and cleanliness standards across 50 public schools. Services include daily cleaning, periodic deep cleaning, and supply of cleaning materials.",
         "location": "Lisbon, Portugal",
-        "buyer": "Portuguese Ministry of Defense",
-        "volume": 700000,
-        "cpv_codes": ["55520000-1"],
-        "publication_deadline": "2024-04-05T00:00:00",
-        "submission_deadline": "2024-05-05T00:00:00"
-      },
-      {
-        "title": "Construction of Public Swimming Pool",
-        "description": "Building a new public swimming pool facility with indoor and outdoor pools.",
-        "location": "Helsinki, Finland",
-        "buyer": "Helsinki City Council",
-        "volume": 1800000,
-        "cpv_codes": ["45212212-5"],
-        "publication_deadline": "2024-06-12T00:00:00",
-        "submission_deadline": "2024-07-12T00:00:00"
-      },
-      {
-        "title": "Supply of Winter Road Maintenance Vehicles",
-        "description": "Procurement of snowplows and salt spreaders for winter road maintenance.",
-        "location": "Oslo, Norway",
-        "buyer": "Norwegian Road Administration",
-        "volume": 2500000,
-        "cpv_codes": ["34143000-1"],
-        "publication_deadline": "2024-05-18T00:00:00",
-        "submission_deadline": "2024-06-18T00:00:00"
-      },
-      {
-        "title": "Provision of Legal Translation Services",
-        "description": "Seeking professional translation services for legal documents.",
-        "location": "Madrid, Spain",
-        "buyer": "Spanish Ministry of Justice",
+        "buyer": "Lisbon Education Authority",
+        "volume": 150000,
+        "cpv_codes": [
+            "90919300-5"
+        ],
+        "publication_deadline": "2024-10-20T00:00:00",
+        "submission_deadline": "2024-12-20T00:00:00"
+    },
+    {
+        "title": "Supply of Ergonomic Chairs for AI Innovation Lab",
+        "description": "Seeking procurement of ergonomically optimized seating solutions with adjustable lumbar support and dynamic positioning mechanisms to facilitate enhanced cognitive performance and sustained comfort metrics for artificial intelligence research personnel within our state-of-the-art facility.",
+        "location": "Berlin, Germany",
+        "buyer": "AI Innovation Lab",
+        "volume": 15000,
+        "cpv_codes": [
+            "39113000-7"
+        ],
+        "publication_deadline": "2024-08-01T00:00:00",
+        "submission_deadline": "2025-02-10T00:00:00"
+    },
+    {
+        "title": "Procurement of High-Performance GPUs for AI Computation",
+        "description": "Urgent requisition for cutting-edge computational accelerators featuring tensor cores and high-bandwidth memory interfaces, specifically engineered for parallel processing of deep neural network architectures and large language model training pipelines, with minimum requirements of 80 TFLOPS FP16 performance.",
+        "location": "London, UK",
+        "buyer": "National AI Computing Center",
         "volume": 400000,
-        "cpv_codes": ["79530000-8"],
-        "publication_deadline": "2024-03-22T00:00:00",
-        "submission_deadline": "2024-04-22T00:00:00"
-      }
-  ]
-  
+        "cpv_codes": [
+            "30230000-0"
+        ],
+        "publication_deadline": "2024-09-10T00:00:00",
+        "submission_deadline": "2025-04-15T00:00:00"
+    },
+    {
+        "title": "Supply of Optimized Servers for AI Research",
+        "description": "Strategic acquisition initiative for high-density compute clusters with specialized cooling solutions and interconnect fabric, optimized for distributed training of foundation models and multi-node parallel computing workflows in AI/ML research contexts.",
+        "location": "Paris, France",
+        "buyer": "European AI Research Institute",
+        "volume": 600000,
+        "cpv_codes": [
+            "48820000-2"
+        ],
+        "publication_deadline": "2024-07-20T00:00:00",
+        "submission_deadline": "2025-06-20T00:00:00"
+    },
+    {
+        "title": "Development of AI-Powered Traffic Management System",
+        "description": "Request for proposals: Implementation of a sophisticated urban mobility optimization framework leveraging multi-agent reinforcement learning paradigms, computer vision analytics, and edge computing infrastructure to orchestrate real-time traffic flow dynamics through adaptive signal control mechanisms and predictive congestion management.",
+        "location": "Amsterdam, Netherlands",
+        "buyer": "City Council of Amsterdam",
+        "volume": 250000,
+        "cpv_codes": [],
+        "publication_deadline": "2024-06-05T00:00:00",
+        "submission_deadline": "2025-08-05T00:00:00"
+    },
+    {
+        "title": "Development of Natural Language Processing Chatbot for Citizen Engagement",
+        "description": "Soliciting development of an advanced conversational agent incorporating transformer-based architectures, multi-modal interaction capabilities, and emotion recognition algorithms. System must demonstrate zero-shot learning capabilities, handle code-switching scenarios, and maintain context across multiple conversation turns while adhering to strict data privacy regulations.",
+        "location": "Madrid, Spain",
+        "buyer": "Municipality of Madrid",
+        "volume": 55000,
+        "cpv_codes": [
+            "72243000-0"
+        ],
+        "publication_deadline": "2023-01-10T00:00:00",
+        "submission_deadline": "2023-03-10T00:00:00"
+    },
+    {
+        "title": "Implementation of Machine Learning Traffic Analysis System",
+        "description": "Procurement notice for an intelligent transportation system utilizing ensemble methods of convolutional neural networks and spatio-temporal graph networks for real-time traffic pattern recognition, anomaly detection, and autonomous decision-making in urban traffic management scenarios.",
+        "location": "Rome, Italy",
+        "buyer": "Rome Traffic Authority",
+        "volume": 160000,
+        "cpv_codes": [
+            "72224000-1"
+        ],
+        "publication_deadline": "2023-03-25T00:00:00",
+        "submission_deadline": "2023-05-25T00:00:00"
+    },
+    {
+        "title": "Deep Learning-Based Waste Management Optimization",
+        "description": "Seeking innovative waste management solution leveraging multi-objective optimization algorithms, deep reinforcement learning, and Internet of Things sensor fusion for dynamic route planning. Must incorporate weather pattern analysis, historical waste generation trends, and real-time bin fill levels while accounting for vehicle capacity constraints and environmental impact metrics.",
+        "location": "Vienna, Austria",
+        "buyer": "Vienna Waste Management Services",
+        "volume": 70000,
+        "cpv_codes": [
+            "72200000-7"
+        ],
+        "publication_deadline": "2024-05-10T00:00:00",
+        "submission_deadline": "2025-10-10T00:00:00"
+    },
+    {
+        "title": "Implementation of SAP ERP System",
+        "description": "Seeking a certified SAP implementation partner to deploy SAP ERP modules for finance, procurement, and human resources. The project includes system customization, data migration, user training, and post-implementation support.",
+        "location": "Zurich, Switzerland",
+        "buyer": "Swiss Federal Procurement Office",
+        "volume": 500000,
+        "cpv_codes": [
+            "48411000-2"
+        ],
+        "publication_deadline": "2024-11-05T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Supply of Medical Equipment for Regional Hospital",
+        "description": "Invitation to supply advanced medical equipment including MRI machines, ultrasound devices, and patient monitoring systems. All equipment must meet EU medical device regulations and include training for hospital staff.",
+        "location": "Vienna, Austria",
+        "buyer": "Vienna Regional Health Authority",
+        "volume": 800000,
+        "cpv_codes": [
+            "33100000-1"
+        ],
+        "publication_deadline": "2024-12-10T00:00:00",
+        "submission_deadline": "2025-03-10T00:00:00"
+    },
+    {
+        "title": "Entwicklung eines Online-Steuererklärungssystems",
+        "description": "Suche nach Softwareentwicklungsfirmen für die Erstellung einer sicheren und benutzerfreundlichen Online-Plattform zur Steuererklärung. Das System sollte E-Signaturen unterstützen, Echtzeit-Validierungen ermöglichen und in bestehende staatliche Datenbanken integriert werden.",
+        "location": "Helsinki, Finland",
+        "buyer": "Finnische Steuerverwaltung",
+        "volume": 400000,
+        "cpv_codes": [
+            "72212440-3"
+        ],
+        "publication_deadline": "2024-11-25T00:00:00",
+        "submission_deadline": "2025-02-25T00:00:00"
+    },
+    {
+        "title": "Straßensanierungs- und Wartungsdienste",
+        "description": "Ausschreibung für die Sanierung von 100 km städtischer Straßen, einschließlich Belagsarbeiten, Reparaturen von Schlaglöchern sowie Wartung von Fahrbahnmarkierungen und Beschilderungen. Auftragnehmer müssen lokale Umwelt- und Sicherheitsvorschriften einhalten.",
+        "location": "Warsaw, Poland",
+        "buyer": "Städtisches Infrastrukturamt Warschau",
+        "volume": 600000,
+        "cpv_codes": [
+            "45233141-9"
+        ],
+        "publication_deadline": "2024-10-30T00:00:00",
+        "submission_deadline": "2025-01-15T00:00:00"
+    },
+    {
+        "title": "Upgrade des Ticketingsystems für den öffentlichen Nahverkehr",
+        "description": "Suche nach Anbietern für das Upgrade des Ticketingsystems der Stadt für den öffentlichen Nahverkehr auf eine kontaktlose, kartenbasierte Lösung. Das Projekt umfasst die Lieferung von Hardware, Softwareentwicklung und Integration in die bestehende Infrastruktur.",
+        "location": "Prague, Czech Republic",
+        "buyer": "Prager Verkehrsbetriebe",
+        "volume": 350000,
+        "cpv_codes": [
+            "30162000-5"
+        ],
+        "publication_deadline": "2024-11-18T00:00:00",
+        "submission_deadline": "2025-02-18T00:00:00"
+    },
+    {
+        "title": "Beschaffung von Softwarelizenzen für Bildungseinrichtungen",
+        "description": "Einladung zur Lieferung von Softwarelizenzen für Bildungseinrichtungen im öffentlichen Sektor, die Fächer wie Mathematik, Naturwissenschaften und Sprachen abdecken. Die Software sollte mit Windows- und iOS-Plattformen kompatibel sein und technischen Support beinhalten.",
+        "location": "Amsterdam, Netherlands",
+        "buyer": "Ministerium für Bildung",
+        "volume": 100000,
+        "cpv_codes": [
+            "48190000-6"
+        ],
+        "publication_deadline": "2024-12-05T00:00:00",
+        "submission_deadline": "2025-01-31T00:00:00"
+    },
+    {
+        "title": "Installation von energieeffizienter Straßenbeleuchtung",
+        "description": "Suche nach Auftragnehmern für den Austausch der vorhandenen Straßenbeleuchtung durch energieeffiziente LED-Systeme. Das Projekt umfasst den Abbau alter Lampen, die Installation neuer Leuchten und eine Wartungsvereinbarung über drei Jahre.",
+        "location": "Copenhagen, Denmark",
+        "buyer": "Kommunale Dienste Kopenhagen",
+        "volume": 250000,
+        "cpv_codes": [
+            "45316110-9"
+        ],
+        "publication_deadline": "2024-11-12T00:00:00",
+        "submission_deadline": "2025-02-01T00:00:00"
+    },
+    {
+        "title": "Supply of Desktop Computers and Peripherals",
+        "description": "Request for suppliers to provide desktop computers, monitors, keyboards, and mice for use in government offices. Equipment must meet specified technical requirements and include a minimum 3-year warranty.",
+        "location": "Brussels, Belgium",
+        "buyer": "European Commission Procurement Services",
+        "volume": 180000,
+        "cpv_codes": [
+            "30213300-8"
+        ],
+        "publication_deadline": "2024-12-20T00:00:00",
+        "submission_deadline": "2025-03-01T00:00:00"
+    },
+    {
+        "title": "Construction of Affordable Housing Units",
+        "description": "Invitation to tender for the construction of 200 affordable housing units, including site preparation, building construction, and landscaping. The project aims to provide sustainable and energy-efficient homes.",
+        "location": "Madrid, Spain",
+        "buyer": "Madrid Housing Authority",
+        "volume": 5000000,
+        "cpv_codes": [
+            "45211000-9"
+        ],
+        "publication_deadline": "2024-11-22T00:00:00",
+        "submission_deadline": "2025-04-15T00:00:00"
+    },
+    {
+        "title": "Upgrade of Municipal Water Treatment Facility",
+        "description": "Seeking engineering firms to design and implement upgrades to the municipal water treatment facility to meet new environmental standards. The project includes equipment installation and system optimization.",
+        "location": "Stockholm, Sweden",
+        "buyer": "Stockholm Water Authority",
+        "volume": 750000,
+        "cpv_codes": [
+            "45252126-7"
+        ],
+        "publication_deadline": "2024-12-08T00:00:00",
+        "submission_deadline": "2025-03-20T00:00:00"
+    },
+    {
+        "title": "Procurement of Library Books and Materials",
+        "description": "Request for suppliers to provide a range of books, e-books, and multimedia materials for public libraries. Materials should cover various genres and languages to meet community needs.",
+        "location": "Edinburgh, United Kingdom",
+        "buyer": "Edinburgh Public Library Services",
+        "volume": 120000,
+        "cpv_codes": [
+            "22113000-5"
+        ],
+        "publication_deadline": "2024-10-28T00:00:00",
+        "submission_deadline": "2024-12-15T00:00:00"
+    },
+    {
+        "title": "Development of Human Resources Management Software",
+        "description": "Seeking a software development company to create a comprehensive HR management system, including modules for payroll, attendance tracking, performance evaluation, and employee self-service portals.",
+        "location": "Paris, France",
+        "buyer": "French Ministry of Labor",
+        "volume": 400000,
+        "cpv_codes": [
+            "72212450-6"
+        ],
+        "publication_deadline": "2024-11-10T00:00:00",
+        "submission_deadline": "2025-02-05T00:00:00"
+    },
+    {
+        "title": "Supply of Laboratory Equipment for University",
+        "description": "Invitation to supply advanced laboratory equipment for physics and chemistry departments, including spectrometers, centrifuges, and microscopes. Equipment must meet international calibration standards.",
+        "location": "Budapest, Hungary",
+        "buyer": "University of Budapest Procurement Office",
+        "volume": 220000,
+        "cpv_codes": [
+            "38000000-5"
+        ],
+        "publication_deadline": "2024-12-15T00:00:00",
+        "submission_deadline": "2025-03-30T00:00:00"
+    },
+    {
+        "title": "Renovation of Historic Museum Building",
+        "description": "Tender for the restoration and renovation of a historic museum, including structural repairs, interior refurbishment, and installation of climate control systems to preserve artifacts.",
+        "location": "Florence, Italy",
+        "buyer": "Florence Cultural Heritage Department",
+        "volume": 900000,
+        "cpv_codes": [
+            "45212314-0"
+        ],
+        "publication_deadline": "2024-11-28T00:00:00",
+        "submission_deadline": "2025-04-01T00:00:00"
+    },
+    {
+        "title": "Provision of Catering Services for Government Events",
+        "description": "Request for professional catering companies to provide food and beverage services for official government events and meetings. Services should include menu planning, food preparation, and waitstaff.",
+        "location": "Athens, Greece",
+        "buyer": "Greek Ministry of Foreign Affairs",
+        "volume": 80000,
+        "cpv_codes": [
+            "55520000-1"
+        ],
+        "publication_deadline": "2024-10-25T00:00:00",
+        "submission_deadline": "2024-12-31T00:00:00"
+    },
+    {
+        "title": "Supply of Public Transport Buses",
+        "description": "Invitation to supply 50 low-emission buses for the city's public transport fleet. Buses should meet Euro 6 emission standards and be equipped with accessibility features for disabled passengers.",
+        "location": "Bratislava, Slovakia",
+        "buyer": "Bratislava Public Transport Company",
+        "volume": 2000000,
+        "cpv_codes": [
+            "34121000-1"
+        ],
+        "publication_deadline": "2024-12-05T00:00:00",
+        "submission_deadline": "2025-03-05T00:00:00"
+    },
+    {
+        "title": "Installation of Fire Safety Systems in Public Buildings",
+        "description": "Seeking contractors to install advanced fire detection and suppression systems in various public buildings, including schools and community centers. Systems must comply with national fire safety regulations.",
+        "location": "Oslo, Norway",
+        "buyer": "Norwegian Directorate for Civil Protection",
+        "volume": 160000,
+        "cpv_codes": [
+            "45343000-3"
+        ],
+        "publication_deadline": "2024-11-18T00:00:00",
+        "submission_deadline": "2025-02-15T00:00:00"
+    },
+    {
+        "title": "Maintenance of Public Parks and Green Spaces",
+        "description": "Request for landscaping companies to provide maintenance services for public parks, including lawn care, tree pruning, and waste removal. Emphasis on sustainable practices and biodiversity conservation.",
+        "location": "Berlin, Germany",
+        "buyer": "Berlin Parks and Recreation Department",
+        "volume": 130000,
+        "cpv_codes": [
+            "77313000-7"
+        ],
+        "publication_deadline": "2024-12-01T00:00:00",
+        "submission_deadline": "2025-01-31T00:00:00"
+    },
+    {
+        "title": "Supply of Police Uniforms and Equipment",
+        "description": "Invitation to supply uniforms, protective gear, and equipment for the national police force. Items must meet specified quality standards and include options for both male and female officers.",
+        "location": "Stockholm, Sweden",
+        "buyer": "Swedish National Police Board",
+        "volume": 500000,
+        "cpv_codes": [
+            "35811200-2"
+        ],
+        "publication_deadline": "2024-11-30T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Upgrade of Airport Baggage Handling System",
+        "description": "Seeking suppliers to upgrade the airport's baggage handling system to improve efficiency and security. The project includes software and hardware installation, system integration, and staff training.",
+        "location": "Vienna, Austria",
+        "buyer": "Vienna International Airport Authority",
+        "volume": 700000,
+        "cpv_codes": [
+            "34961000-7"
+        ],
+        "publication_deadline": "2024-12-10T00:00:00",
+        "submission_deadline": "2025-03-15T00:00:00"
+    },
+    {
+        "title": "Provision of Waste Collection and Recycling Services",
+        "description": "Invitation for service providers to manage waste collection, recycling, and disposal services for residential and commercial areas. Providers must comply with environmental regulations and promote waste reduction.",
+        "location": "Helsinki, Finland",
+        "buyer": "Helsinki Environmental Services",
+        "volume": 250000,
+        "cpv_codes": [
+            "90511000-2"
+        ],
+        "publication_deadline": "2024-11-25T00:00:00",
+        "submission_deadline": "2025-01-20T00:00:00"
+    },
+    {
+        "title": "Development of E-Government Portal",
+        "description": "Seeking IT firms to develop a comprehensive e-government portal to provide online access to public services, forms, and information. The platform should be secure, user-friendly, and support multiple languages.",
+        "location": "Tallinn, Estonia",
+        "buyer": "Estonian Ministry of Economic Affairs and Communications",
+        "volume": 450000,
+        "cpv_codes": [
+            "72212220-9"
+        ],
+        "publication_deadline": "2024-12-15T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Construction of New Wastewater Treatment Plant",
+        "description": "Invitation to tender for the construction of a new wastewater treatment facility to serve expanding urban areas. The project includes design, construction, and commissioning of the plant.",
+        "location": "Copenhagen, Denmark",
+        "buyer": "Copenhagen Water Authority",
+        "volume": 3000000,
+        "cpv_codes": [
+            "45252127-4"
+        ],
+        "publication_deadline": "2024-12-20T00:00:00",
+        "submission_deadline": "2025-04-30T00:00:00"
+    },
+    {
+        "title": "Supply of Electric Vehicles for Municipal Fleet",
+        "description": "Seeking suppliers to provide 30 electric vehicles for use by various municipal departments. Vehicles should have a minimum range of 300 km and include charging equipment.",
+        "location": "Ljubljana, Slovenia",
+        "buyer": "Ljubljana Municipal Services",
+        "volume": 900000,
+        "cpv_codes": [
+            "34144900-7"
+        ],
+        "publication_deadline": "2024-11-22T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Provision of Legal Advisory Services",
+        "description": "Request for law firms to provide legal advisory services on international trade agreements, compliance, and regulatory matters. Firms must have expertise in EU legislation and multilingual capabilities.",
+        "location": "Luxembourg City, Luxembourg",
+        "buyer": "European Investment Bank",
+        "volume": 200000,
+        "cpv_codes": [
+            "79110000-8"
+        ],
+        "publication_deadline": "2024-11-28T00:00:00",
+        "submission_deadline": "2025-01-31T00:00:00"
+    },
+    {
+        "title": "Supply and Maintenance of Vending Machines",
+        "description": "Invitation to supply and maintain vending machines for snacks and beverages in government buildings. Machines should offer healthy options and support cashless payment methods.",
+        "location": "Lisbon, Portugal",
+        "buyer": "Portuguese Government Procurement Service",
+        "volume": 60000,
+        "cpv_codes": [
+            "42933000-5"
+        ],
+        "publication_deadline": "2024-10-25T00:00:00",
+        "submission_deadline": "2024-12-15T00:00:00"
+    },
+    {
+        "title": "Renovation of Urban Public Spaces",
+        "description": "Seeking contractors for the renovation of public squares and pedestrian areas, including paving, installation of benches, lighting, and landscaping to enhance urban aesthetics.",
+        "location": "Vienna, Austria",
+        "buyer": "Vienna Urban Development Department",
+        "volume": 400000,
+        "cpv_codes": [
+            "45211360-0"
+        ],
+        "publication_deadline": "2024-12-05T00:00:00",
+        "submission_deadline": "2025-03-10T00:00:00"
+    },
+    {
+        "title": "Implementation of Customer Relationship Management System",
+        "description": "Seeking implementation partners for a CRM system to improve citizen engagement and service delivery. The system should integrate with existing databases and support multi-channel communication.",
+        "location": "Amsterdam, Netherlands",
+        "buyer": "Amsterdam City Council",
+        "volume": 350000,
+        "cpv_codes": [
+            "48445000-7"
+        ],
+        "publication_deadline": "2024-11-15T00:00:00",
+        "submission_deadline": "2025-02-15T00:00:00"
+    },
+    {
+        "title": "Supply of Firefighting Equipment",
+        "description": "Invitation to supply firefighting equipment including hoses, nozzles, protective clothing, and breathing apparatus. Equipment must meet international safety standards.",
+        "location": "Dublin, Ireland",
+        "buyer": "Dublin Fire Brigade",
+        "volume": 150000,
+        "cpv_codes": [
+            "35111000-5"
+        ],
+        "publication_deadline": "2024-11-20T00:00:00",
+        "submission_deadline": "2025-01-20T00:00:00"
+    },
+    {
+        "title": "Development of Tourism Promotion Website",
+        "description": "Seeking web development agencies to create an interactive website to promote local tourism. The site should feature multimedia content, booking integrations, and multilingual support.",
+        "location": "Athens, Greece",
+        "buyer": "Greek National Tourism Organization",
+        "volume": 100000,
+        "cpv_codes": [
+            "72413000-8"
+        ],
+        "publication_deadline": "2024-12-01T00:00:00",
+        "submission_deadline": "2025-01-31T00:00:00"
+    },
+    {
+        "title": "Supply of Office Supplies and Stationery",
+        "description": "Request for suppliers to provide office supplies including paper, pens, toner cartridges, and other stationery items for government departments on a contractual basis.",
+        "location": "Berlin, Germany",
+        "buyer": "Federal Procurement Agency",
+        "volume": 80000,
+        "cpv_codes": [
+            "30192000-1"
+        ],
+        "publication_deadline": "2024-10-30T00:00:00",
+        "submission_deadline": "2024-12-30T00:00:00"
+    },
+    {
+        "title": "Upgrade of Public Wi-Fi Infrastructure",
+        "description": "Seeking IT service providers to enhance the public Wi-Fi network across city centers and public spaces. The project includes hardware upgrades, security enhancements, and network optimization.",
+        "location": "Madrid, Spain",
+        "buyer": "Madrid Information Technology Department",
+        "volume": 220000,
+        "cpv_codes": [
+            "32412110-8"
+        ],
+        "publication_deadline": "2024-11-10T00:00:00",
+        "submission_deadline": "2025-01-25T00:00:00"
+    },
+    {
+        "title": "Provision of Translation and Interpretation Services",
+        "description": "Request for professional translation and interpretation services to support government agencies in multilingual communication. Services required in at least 10 languages, including sign language interpretation.",
+        "location": "Brussels, Belgium",
+        "buyer": "European Union Institutions",
+        "volume": 500000,
+        "cpv_codes": [
+            "79540000-1"
+        ],
+        "publication_deadline": "2024-12-15T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Supply of Laboratory Chemicals and Reagents",
+        "description": "Invitation to supply a wide range of laboratory chemicals and reagents for use in research institutions. Products must meet purity standards and include safety data sheets.",
+        "location": "Zurich, Switzerland",
+        "buyer": "Swiss Federal Institute of Technology",
+        "volume": 140000,
+        "cpv_codes": [
+            "33696300-8"
+        ],
+        "publication_deadline": "2024-11-25T00:00:00",
+        "submission_deadline": "2025-01-31T00:00:00"
+    },
+    {
+        "title": "Installation of CCTV Surveillance Systems",
+        "description": "Seeking contractors to install CCTV cameras and monitoring systems in public areas to enhance security. The project includes maintenance services and must comply with privacy regulations.",
+        "location": "Warsaw, Poland",
+        "buyer": "Warsaw Security Department",
+        "volume": 300000,
+        "cpv_codes": [
+            "32235000-9"
+        ],
+        "publication_deadline": "2024-12-05T00:00:00",
+        "submission_deadline": "2025-02-15T00:00:00"
+    },
+    {
+        "title": "Provision of Public Relations and Marketing Services",
+        "description": "Request for agencies to provide PR and marketing services to promote government initiatives and public awareness campaigns. Services include strategy development, content creation, and media relations.",
+        "location": "Paris, France",
+        "buyer": "French Government Communications Office",
+        "volume": 250000,
+        "cpv_codes": [
+            "79416000-3"
+        ],
+        "publication_deadline": "2024-11-30T00:00:00",
+        "submission_deadline": "2025-01-31T00:00:00"
+    },
+    {
+        "title": "Construction of Bicycle Lanes and Infrastructure",
+        "description": "Seeking contractors to construct new bicycle lanes and related infrastructure to promote sustainable transport. The project includes signage, road markings, and safety barriers.",
+        "location": "Amsterdam, Netherlands",
+        "buyer": "Amsterdam Transportation Authority",
+        "volume": 600000,
+        "cpv_codes": [
+            "45233162-2"
+        ],
+        "publication_deadline": "2024-12-12T00:00:00",
+        "submission_deadline": "2025-03-01T00:00:00"
+    },
+    {
+        "title": "Supply of Educational Furniture for Schools",
+        "description": "Invitation to supply desks, chairs, whiteboards, and storage units for newly built schools. Furniture must be durable, ergonomic, and suitable for various age groups.",
+        "location": "Copenhagen, Denmark",
+        "buyer": "Danish Ministry of Education",
+        "volume": 180000,
+        "cpv_codes": [
+            "39160000-1"
+        ],
+        "publication_deadline": "2024-11-28T00:00:00",
+        "submission_deadline": "2025-01-20T00:00:00"
+    },
+    {
+        "title": "Implementation of Document Management System",
+        "description": "Seeking IT firms to implement an electronic document management system to improve record-keeping and workflow efficiency. The system should support document scanning, indexing, and retrieval.",
+        "location": "Helsinki, Finland",
+        "buyer": "Finnish National Archives",
+        "volume": 300000,
+        "cpv_codes": [
+            "48311000-1"
+        ],
+        "publication_deadline": "2024-12-08T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Supply and Installation of Gym Equipment",
+        "description": "Invitation to supply and install gym equipment for public fitness centers, including treadmills, weight machines, and exercise bikes. Equipment must meet safety standards and include warranties.",
+        "location": "Oslo, Norway",
+        "buyer": "Oslo Sports and Recreation Department",
+        "volume": 120000,
+        "cpv_codes": [
+            "37440000-4"
+        ],
+        "publication_deadline": "2024-11-20T00:00:00",
+        "submission_deadline": "2025-01-31T00:00:00"
+    },
+    {
+        "title": "Development of Environmental Monitoring Software",
+        "description": "Seeking software developers to create a platform for monitoring environmental data such as air quality, noise levels, and water pollution. The system should support data visualization and public access.",
+        "location": "Berlin, Germany",
+        "buyer": "German Environmental Agency",
+        "volume": 350000,
+        "cpv_codes": [
+            "72212100-4"
+        ],
+        "publication_deadline": "2024-12-15T00:00:00",
+        "submission_deadline": "2025-03-15T00:00:00"
+    },
+    {
+        "title": "Provision of Training Services for Unemployed Individuals",
+        "description": "Request for educational institutions to provide vocational training programs to unemployed individuals to enhance employability in sectors such as IT, healthcare, and construction.",
+        "location": "Stockholm, Sweden",
+        "buyer": "Swedish Public Employment Service",
+        "volume": 280000,
+        "cpv_codes": [
+            "80500000-9"
+        ],
+        "publication_deadline": "2024-11-25T00:00:00",
+        "submission_deadline": "2025-01-31T00:00:00"
+    },
+    {
+        "title": "Supply of Fresh Produce for School Meal Programs",
+        "description": "Invitation to supply fresh fruits, vegetables, and dairy products for school meal programs. Suppliers must adhere to food safety standards and provide products sourced from sustainable agriculture.",
+        "location": "Rome, Italy",
+        "buyer": "Rome Education Department",
+        "volume": 100000,
+        "cpv_codes": [
+            "03221200-6"
+        ],
+        "publication_deadline": "2024-10-28T00:00:00",
+        "submission_deadline": "2024-12-20T00:00:00"
+    },
+    {
+        "title": "Installation of Renewable Energy Systems in Public Housing",
+        "description": "Seeking contractors to install solar panels and small wind turbines in public housing units to reduce energy costs and promote sustainability. Includes maintenance services for 5 years.",
+        "location": "Dublin, Ireland",
+        "buyer": "Dublin Housing Authority",
+        "volume": 500000,
+        "cpv_codes": [
+            "09331100-9"
+        ],
+        "publication_deadline": "2024-11-10T00:00:00",
+        "submission_deadline": "2025-02-15T00:00:00"
+    },
+    {
+        "title": "Upgrade of Hospital Information Systems",
+        "description": "Seeking IT service providers to upgrade the hospital's information systems, including electronic health records, appointment scheduling, and billing systems. Must ensure data security and compliance with health regulations.",
+        "location": "Vienna, Austria",
+        "buyer": "Vienna General Hospital",
+        "volume": 800000,
+        "cpv_codes": [
+            "72261000-2"
+        ],
+        "publication_deadline": "2024-12-01T00:00:00",
+        "submission_deadline": "2025-03-31T00:00:00"
+    },
+    {
+        "title": "Provision of Public Transportation Services",
+        "description": "Invitation for operators to provide bus transportation services on designated routes, including fleet maintenance and adherence to service schedules. Emphasis on low-emission vehicles.",
+        "location": "Prague, Czech Republic",
+        "buyer": "Prague Transportation Authority",
+        "volume": 1500000,
+        "cpv_codes": [
+            "60112000-6"
+        ],
+        "publication_deadline": "2024-12-12T00:00:00",
+        "submission_deadline": "2025-03-10T00:00:00"
+    },
+    {
+        "title": "Supply of Office Furniture for New Government Complex",
+        "description": "Invitation to supply office furniture including desks, chairs, conference tables, and storage units for a new government complex. Furniture must be ergonomic and made from sustainable materials.",
+        "location": "Helsinki, Finland",
+        "buyer": "Finnish Government Procurement Unit",
+        "volume": 250000,
+        "cpv_codes": [
+            "39130000-2"
+        ],
+        "publication_deadline": "2024-11-18T00:00:00",
+        "submission_deadline": "2025-01-31T00:00:00"
+    },
+    {
+        "title": "Development of Mobile Application for Citizen Services",
+        "description": "Seeking mobile app developers to create an application that allows citizens to access government services, report issues, and receive notifications. The app should be available on iOS and Android platforms.",
+        "location": "Lisbon, Portugal",
+        "buyer": "Lisbon Municipal Council",
+        "volume": 200000,
+        "cpv_codes": [
+            "72212983-5"
+        ],
+        "publication_deadline": "2024-11-25T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Provision of Cloud Hosting Services",
+        "description": "Seeking cloud service providers to host government applications and data with high availability and security. Services should comply with data protection regulations and offer scalability options.",
+        "location": "Tallinn, Estonia",
+        "buyer": "Estonian Information System Authority",
+        "volume": 500000,
+        "cpv_codes": [
+            "72510000-3"
+        ],
+        "publication_deadline": "2024-12-05T00:00:00",
+        "submission_deadline": "2025-02-15T00:00:00"
+    },
+    {
+        "title": "Construction of New Elementary School Building",
+        "description": "Invitation to tender for the construction of a new elementary school, including classrooms, laboratories, sports facilities, and playgrounds. The design should prioritize safety and modern educational needs.",
+        "location": "Budapest, Hungary",
+        "buyer": "Budapest Education Authority",
+        "volume": 2500000,
+        "cpv_codes": [
+            "45214200-2"
+        ],
+        "publication_deadline": "2024-12-15T00:00:00",
+        "submission_deadline": "2025-04-15T00:00:00"
+    },
+    {
+        "title": "Supply of Vaccines for National Immunization Program",
+        "description": "Invitation to supply various vaccines for the national immunization program, including influenza, measles, and polio vaccines. Suppliers must have WHO prequalification and comply with cold chain requirements.",
+        "location": "Warsaw, Poland",
+        "buyer": "Polish Ministry of Health",
+        "volume": 1000000,
+        "cpv_codes": [
+            "33651600-8"
+        ],
+        "publication_deadline": "2024-11-30T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Provision of Cybersecurity Assessment Services",
+        "description": "Request for cybersecurity firms to conduct vulnerability assessments and penetration testing on government IT systems. Firms must provide detailed reports and remediation recommendations.",
+        "location": "Berlin, Germany",
+        "buyer": "Federal Office for Information Security",
+        "volume": 300000,
+        "cpv_codes": [
+            "72611000-6"
+        ],
+        "publication_deadline": "2024-12-08T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Implementation of Enterprise Resource Planning System",
+        "description": "Seeking implementation partners for an ERP system covering finance, procurement, inventory management, and HR modules. The project includes customization, data migration, training, and support.",
+        "location": "Paris, France",
+        "buyer": "French Ministry of Finance",
+        "volume": 1000000,
+        "cpv_codes": [
+            "48451000-2"
+        ],
+        "publication_deadline": "2024-12-20T00:00:00",
+        "submission_deadline": "2025-03-31T00:00:00"
+    },
+    {
+        "title": "Supply of Road Maintenance Vehicles",
+        "description": "Invitation to supply specialized vehicles for road maintenance, including snowplows, street sweepers, and asphalt repair units. Vehicles must meet emission standards and include operator training.",
+        "location": "Oslo, Norway",
+        "buyer": "Norwegian Public Roads Administration",
+        "volume": 700000,
+        "cpv_codes": [
+            "34144400-2"
+        ],
+        "publication_deadline": "2024-11-28T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Installation of Traffic Signal Systems",
+        "description": "Seeking contractors to install and upgrade traffic signal systems at various intersections to improve traffic flow and safety. Includes integration with central traffic management systems.",
+        "location": "Copenhagen, Denmark",
+        "buyer": "Copenhagen Traffic Authority",
+        "volume": 250000,
+        "cpv_codes": [
+            "34996100-1"
+        ],
+        "publication_deadline": "2024-12-10T00:00:00",
+        "submission_deadline": "2025-03-10T00:00:00"
+    },
+    {
+        "title": "Provision of Psychological Counseling Services",
+        "description": "Request for qualified professionals to provide psychological counseling services to students in public schools. Services include individual and group sessions, workshops, and crisis intervention.",
+        "location": "Amsterdam, Netherlands",
+        "buyer": "Amsterdam Education Board",
+        "volume": 150000,
+        "cpv_codes": [
+            "85121270-6"
+        ],
+        "publication_deadline": "2024-11-22T00:00:00",
+        "submission_deadline": "2025-01-31T00:00:00"
+    },
+    {
+        "title": "Supply of Aviation Fuel for Government Aircraft",
+        "description": "Invitation to supply aviation fuel (Jet A-1) for government-operated aircraft. Suppliers must comply with international fuel quality standards and provide fuel at multiple locations.",
+        "location": "Athens, Greece",
+        "buyer": "Greek Ministry of Defense",
+        "volume": 600000,
+        "cpv_codes": [
+            "09131000-6"
+        ],
+        "publication_deadline": "2024-12-01T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Maschinelles Lernmodell für Energieverbrauchsprognosen",
+        "description": "Ausschreibung für die Entwicklung eines hochkomplexen Energieprognosemodells basierend auf einer Hybrid-Architektur aus rekurrenten neuronalen Netzen und probabilistischen Graphenmodellen. Integration von multimodalen Sensordaten, Wettervorhersagen und sozioökonomischen Indikatoren für granulare Verbrauchsvorhersagen auf Quartiersebene erforderlich.",
+        "location": "Copenhagen, Denmark",
+        "buyer": "Copenhagen Energy Agency",
+        "volume": 85000,
+        "cpv_codes": [
+            "72212000-4"
+        ],
+        "publication_deadline": "2024-10-15T00:00:00",
+        "submission_deadline": "2025-12-15T00:00:00"
+    },
+    {
+        "title": "Natursprachverarbeitung für Dokumentendigitalisierung",
+        "description": "Entwicklung eines KI-gestützten Dokumentenverarbeitungssystems mit adaptiven OCR-Algorithmen und selbstlernenden Sprachmodellen zur kontextabhängigen Interpretation historischer Handschriften. Integration von Transformator-Architekturen für mehrsprachige Dokumentenanalyse und automatisierte Metadatenextraktion unter Berücksichtigung epoch-spezifischer Sprachvariationen.",
+        "location": "Helsinki, Finland",
+        "buyer": "Finnish National Archives",
+        "volume": 65000,
+        "cpv_codes": [
+            "72243000-0"
+        ],
+        "publication_deadline": "2024-09-20T00:00:00",
+        "submission_deadline": "2025-12-31T00:00:00"
+    },
+    {
+        "title": "Predictive Analytics Solution for Healthcare Analysis",
+        "description": "Development of a sophisticated healthcare analytics platform incorporating quantum-inspired optimization algorithms, federated learning approaches, and automated feature engineering pipelines. System must demonstrate capability for multi-modal medical data fusion, handling of missing data through advanced imputation techniques, and real-time risk stratification using ensemble methods of gradient-boosted decision trees and deep neural networks.",
+        "location": "Stockholm, Sweden",
+        "buyer": "Stockholm Health Authority",
+        "volume": 90000,
+        "cpv_codes": [
+            "72261000-2"
+        ],
+        "publication_deadline": "2024-04-01T00:00:00",
+        "submission_deadline": "2025-09-01T00:00:00"
+    },
+    {
+        "title": "Development of Online Learning Platform",
+        "description": "Seeking developers to create an online learning platform for distance education. The platform should support video lectures, interactive assessments, and collaboration tools.",
+        "location": "Lisbon, Portugal",
+        "buyer": "Portuguese Ministry of Education",
+        "volume": 400000,
+        "cpv_codes": [
+            "72212190-7"
+        ],
+        "publication_deadline": "2024-12-15T00:00:00",
+        "submission_deadline": "2025-03-15T00:00:00"
+    },
+    {
+        "title": "Renovation of Public Swimming Pools",
+        "description": "Seeking contractors to renovate public swimming pools, including structural repairs, filtration system upgrades, and accessibility improvements. Compliance with health and safety regulations is mandatory.",
+        "location": "Madrid, Spain",
+        "buyer": "Madrid Sports Council",
+        "volume": 500000,
+        "cpv_codes": [
+            "45212212-5"
+        ],
+        "publication_deadline": "2024-11-30T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Supply of Agricultural Machinery for Research Institute",
+        "description": "Invitation to supply tractors, harvesters, and planting equipment for agricultural research purposes. Equipment should be compatible with precision farming technologies.",
+        "location": "Brussels, Belgium",
+        "buyer": "European Agricultural Research Institute",
+        "volume": 300000,
+        "cpv_codes": [
+            "16100000-6"
+        ],
+        "publication_deadline": "2024-12-08T00:00:00",
+        "submission_deadline": "2025-03-08T00:00:00"
+    },
+    {
+        "title": "Provision of Data Analysis Services",
+        "description": "Seeking firms to provide data analysis and statistical services for government research projects. Expertise required in handling large datasets, data visualization, and reporting.",
+        "location": "Stockholm, Sweden",
+        "buyer": "Swedish National Bureau of Statistics",
+        "volume": 250000,
+        "cpv_codes": [
+            "72316000-3"
+        ],
+        "publication_deadline": "2024-12-12T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Supply of Water Treatment Chemicals",
+        "description": "Invitation to supply chemicals for water treatment plants, including coagulants, disinfectants, and pH adjusters. Suppliers must provide safety data sheets and comply with environmental regulations.",
+        "location": "Budapest, Hungary",
+        "buyer": "Budapest Waterworks",
+        "volume": 120000,
+        "cpv_codes": [
+            "24962000-5"
+        ],
+        "publication_deadline": "2024-11-25T00:00:00",
+        "submission_deadline": "2025-01-31T00:00:00"
+    },
+    {
+        "title": "Implementation of Time and Attendance System",
+        "description": "Seeking suppliers to implement an electronic time and attendance system for government employees, including biometric devices, software, and integration with HR systems.",
+        "location": "Dublin, Ireland",
+        "buyer": "Irish Civil Service HR Department",
+        "volume": 180000,
+        "cpv_codes": [
+            "31711310-4"
+        ],
+        "publication_deadline": "2024-12-01T00:00:00",
+        "submission_deadline": "2025-02-15T00:00:00"
+    },
+    {
+        "title": "Provision of Technical Support Services",
+        "description": "Request for IT firms to provide technical support and helpdesk services for government departments, including hardware troubleshooting, software assistance, and user training.",
+        "location": "Prague, Czech Republic",
+        "buyer": "Czech Ministry of Information Technology",
+        "volume": 220000,
+        "cpv_codes": [
+            "72253000-3"
+        ],
+        "publication_deadline": "2024-12-08T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Construction of Waste Recycling Facility",
+        "description": "Invitation to construct a modern waste recycling facility capable of processing various types of waste materials. The project includes design, construction, and commissioning phases.",
+        "location": "Vienna, Austria",
+        "buyer": "Vienna Waste Management Authority",
+        "volume": 2000000,
+        "cpv_codes": [
+            "45222100-0"
+        ],
+        "publication_deadline": "2024-12-15T00:00:00",
+        "submission_deadline": "2025-04-30T00:00:00"
+    },
+    {
+        "title": "Supply of Medical Consumables for Hospitals",
+        "description": "Invitation to supply medical consumables such as syringes, gloves, bandages, and antiseptics. Products must be CE certified and meet healthcare standards.",
+        "location": "Warsaw, Poland",
+        "buyer": "Polish National Health Fund",
+        "volume": 500000,
+        "cpv_codes": [
+            "33140000-3"
+        ],
+        "publication_deadline": "2024-11-30T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Construction of New Municipal Sports Complex",
+        "description": "Invitation to tender for the construction of a modern sports complex, including swimming pools, gymnasiums, and outdoor athletic fields. The project requires adherence to sustainable building practices and accessibility standards.",
+        "location": "Hamburg, Germany",
+        "buyer": "Hamburg City Council",
+        "volume": 2500000,
+        "cpv_codes": [
+            "45212100-7"
+        ],
+        "publication_deadline": "2024-12-20T00:00:00",
+        "submission_deadline": "2025-04-15T00:00:00"
+    },
+    {
+        "title": "Supply of Passenger Trains for Regional Rail Network",
+        "description": "Seeking suppliers to provide 10 electric multiple-unit passenger trains for the regional rail network. Trains must meet EU safety and environmental standards and include maintenance support.",
+        "location": "Milan, Italy",
+        "buyer": "Lombardy Regional Transport Authority",
+        "volume": 3000000,
+        "cpv_codes": [
+            "34620000-9"
+        ],
+        "publication_deadline": "2024-12-30T00:00:00",
+        "submission_deadline": "2025-03-31T00:00:00"
+    },
+    {
+        "title": "Implementation of Electronic Voting System",
+        "description": "Seeking IT firms to develop and implement a secure electronic voting system for municipal elections. The system must ensure voter anonymity, data integrity, and be resistant to cyber-attacks.",
+        "location": "Tallinn, Estonia",
+        "buyer": "Estonian Electoral Commission",
+        "volume": 600000,
+        "cpv_codes": [
+            "72212320-0"
+        ],
+        "publication_deadline": "2024-12-15T00:00:00",
+        "submission_deadline": "2025-03-15T00:00:00"
+    },
+    {
+        "title": "Supply of Classroom Equipment for Vocational Schools",
+        "description": "Invitation to supply specialized equipment for vocational schools, including welding machines, automotive diagnostic tools, and carpentry equipment. Suppliers must provide training materials and safety certifications.",
+        "location": "Glasgow, United Kingdom",
+        "buyer": "Scottish Vocational Education Authority",
+        "volume": 200000,
+        "cpv_codes": [
+            "39162000-6"
+        ],
+        "publication_deadline": "2024-11-30T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Renovation of Historical Bridge",
+        "description": "Tender for the restoration and structural reinforcement of a historical bridge. The project requires expertise in preservation techniques and compliance with heritage conservation regulations.",
+        "location": "Prague, Czech Republic",
+        "buyer": "Prague Municipal Infrastructure Department",
+        "volume": 800000,
+        "cpv_codes": [
+            "45221100-3"
+        ],
+        "publication_deadline": "2024-12-08T00:00:00",
+        "submission_deadline": "2025-03-08T00:00:00"
+    },
+    {
+        "title": "Provision of Nursing Services for Elderly Care Homes",
+        "description": "Request for healthcare service providers to supply qualified nursing staff for public elderly care homes. Services include medical care, daily assistance, and emergency response.",
+        "location": "Copenhagen, Denmark",
+        "buyer": "Copenhagen Health Services",
+        "volume": 500000,
+        "cpv_codes": [
+            "85144100-1"
+        ],
+        "publication_deadline": "2024-12-12T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Supply and Installation of HVAC Systems",
+        "description": "Seeking contractors to supply and install energy-efficient heating, ventilation, and air conditioning systems in government buildings. Includes maintenance services for 5 years.",
+        "location": "Vienna, Austria",
+        "buyer": "Austrian Federal Real Estate Agency",
+        "volume": 400000,
+        "cpv_codes": [
+            "42512300-6"
+        ],
+        "publication_deadline": "2024-12-05T00:00:00",
+        "submission_deadline": "2025-03-10T00:00:00"
+    },
+    {
+        "title": "Implementation of Financial Management Software",
+        "description": "Seeking software providers to implement a financial management system for municipal budgeting, accounting, and reporting. The system should support multi-user access and comply with accounting standards.",
+        "location": "Lisbon, Portugal",
+        "buyer": "Lisbon Financial Department",
+        "volume": 300000,
+        "cpv_codes": [
+            "48442000-8"
+        ],
+        "publication_deadline": "2024-11-18T00:00:00",
+        "submission_deadline": "2025-02-15T00:00:00"
+    },
+    {
+        "title": "Supply of Library Management System",
+        "description": "Invitation to provide a library management software solution, including cataloging, circulation, and digital resource integration. System must be user-friendly and support data migration from existing platforms.",
+        "location": "Helsinki, Finland",
+        "buyer": "Helsinki Public Libraries",
+        "volume": 150000,
+        "cpv_codes": [
+            "48160000-7"
+        ],
+        "publication_deadline": "2024-12-01T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Construction of Waste Incineration Plant",
+        "description": "Seeking contractors to build a waste incineration facility with energy recovery capabilities. The project includes design, construction, and commissioning, adhering to environmental regulations.",
+        "location": "Oslo, Norway",
+        "buyer": "Norwegian Waste Management Agency",
+        "volume": 3500000,
+        "cpv_codes": [
+            "45222110-3"
+        ],
+        "publication_deadline": "2024-12-20T00:00:00",
+        "submission_deadline": "2025-05-31T00:00:00"
+    },
+    {
+        "title": "Provision of Public Lighting Maintenance Services",
+        "description": "Request for service providers to maintain and repair public lighting systems, including streetlights and traffic signals. Services include regular inspections, emergency repairs, and energy efficiency upgrades.",
+        "location": "Berlin, Germany",
+        "buyer": "Berlin Municipal Services",
+        "volume": 200000,
+        "cpv_codes": [
+            "50232100-1"
+        ],
+        "publication_deadline": "2024-12-10T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Supply of Office Automation Equipment",
+        "description": "Invitation to supply photocopiers, scanners, and multifunction printers for government offices. Equipment must include network connectivity, secure printing features, and come with maintenance agreements.",
+        "location": "Brussels, Belgium",
+        "buyer": "European Parliament Procurement Service",
+        "volume": 180000,
+        "cpv_codes": [
+            "30120000-6"
+        ],
+        "publication_deadline": "2024-11-25T00:00:00",
+        "submission_deadline": "2025-02-20T00:00:00"
+    },
+    {
+        "title": "Installation of Underground Fiber Optic Network",
+        "description": "Seeking contractors to install underground fiber optic cables to enhance broadband connectivity in rural areas. The project includes trenching, cable laying, and network testing.",
+        "location": "Dublin, Ireland",
+        "buyer": "Irish Telecommunications Authority",
+        "volume": 600000,
+        "cpv_codes": [
+            "32412100-0"
+        ],
+        "publication_deadline": "2024-12-08T00:00:00",
+        "submission_deadline": "2025-03-05T00:00:00"
+    },
+    {
+        "title": "Supply of Waste Collection Vehicles",
+        "description": "Invitation to supply 20 waste collection trucks equipped with compaction technology. Vehicles must meet emission standards and include operator training and maintenance services.",
+        "location": "Stockholm, Sweden",
+        "buyer": "Stockholm Waste Management Department",
+        "volume": 900000,
+        "cpv_codes": [
+            "34144510-6"
+        ],
+        "publication_deadline": "2024-12-15T00:00:00",
+        "submission_deadline": "2025-03-15T00:00:00"
+    },
+    {
+        "title": "Provision of Security Services for Public Buildings",
+        "description": "Request for security firms to provide guard services, surveillance, and access control for various public buildings. Staff must be licensed and trained in emergency response procedures.",
+        "location": "Madrid, Spain",
+        "buyer": "Madrid Municipal Security Department",
+        "volume": 250000,
+        "cpv_codes": [
+            "79710000-4"
+        ],
+        "publication_deadline": "2024-11-30T00:00:00",
+        "submission_deadline": "2025-02-28T00:00:00"
+    },
+    {
+        "title": "Development of Traffic Management Software",
+        "description": "Seeking software developers to create a traffic management system for monitoring and controlling traffic flow. The system should integrate with existing infrastructure and provide real-time analytics.",
+        "location": "Amsterdam, Netherlands",
+        "buyer": "Dutch Traffic Authority",
+        "volume": 500000,
+        "cpv_codes": [
+            "72212180-4"
+        ],
+        "publication_deadline": "2024-12-05T00:00:00",
+        "submission_deadline": "2025-03-10T00:00:00"
+    },
+    {
+        "title": "Supply of Hospital Beds and Medical Furniture",
+        "description": "Invitation to supply adjustable hospital beds, bedside cabinets, and overbed tables. Products must meet medical safety standards and include warranties and maintenance support.",
+        "location": "Budapest, Hungary",
+        "buyer": "Hungarian National Health Service",
+        "volume": 300000,
+        "cpv_codes": [
+            "33192120-6"
+        ],
+        "publication_deadline": "2024-11-18T00:00:00",
+        "submission_deadline": "2025-02-15T00:00:00"
+    },
+    {
+        "title": "Implementation of Student Information System",
+        "description": "Seeking software providers to implement a student information system for universities, including modules for admissions, enrollment, grades, and attendance. The system should support online access for students and staff.",
+        "location": "Warsaw, Poland",
+        "buyer": "Polish Ministry of Education",
+        "volume": 400000,
+        "cpv_codes": [
+            "48190000-6"
+        ],
+        "publication_deadline": "2024-12-01T00:00:00",
+        "submission_deadline": "2025-03-01T00:00:00"
+    },
+    {
+        "title": "Construction of Coastal Flood Defenses",
+        "description": "Tender for the construction of sea walls and flood barriers to protect coastal areas from erosion and flooding. The project requires environmental impact assessments and sustainable engineering solutions.",
+        "location": "Athens, Greece",
+        "buyer": "Greek Ministry of Environment",
+        "volume": 2000000,
+        "cpv_codes": [
+            "45243000-2"
+        ],
+        "publication_deadline": "2024-12-20T00:00:00",
+        "submission_deadline": "2025-04-30T00:00:00"
+    },
+    {
+        "title": "Supply of Clean Energy Buses",
+        "description": "Invitation to supply 40 hybrid or electric buses for the city's public transport fleet. Buses should have low-floor designs for accessibility and include charging infrastructure if electric.",
+        "location": "Lisbon, Portugal",
+        "buyer": "Lisbon Public Transport Authority",
+        "volume": 2500000,
+        "cpv_codes": [
+            "34144910-0"
+        ],
+        "publication_deadline": "2024-12-08T00:00:00",
+        "submission_deadline": "2025-03-08T00:00:00"
+    },
+    {
+        "title": "Provision of Catering Services for Schools",
+        "description": "Request for catering companies to provide healthy and balanced meals for public school cafeterias. Menus must comply with nutritional guidelines and cater to dietary restrictions.",
+        "location": "Berlin, Germany",
+        "buyer": "Berlin Education Department",
+        "volume": 300000,
+        "cpv_codes": [
+            "55524000-9"
+        ],
+        "publication_deadline": "2024-11-25T00:00:00",
+        "submission_deadline": "2025-01-31T00:00:00"
+    }
+]

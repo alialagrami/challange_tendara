@@ -13,12 +13,13 @@ This is a small python poetry project, so installing it should be as simple as:
 ```
 poetry install
 ```
+Install any libraries that you think are relevant and would help you solve the problem.
 
 ### Problem: Matching Notices
 You can find the description of the problem in [`Problem Statement.md`](Problem%20Statement.md).
 
 #### Using Third-Party LLM Providers
-Feel free to use the OpenAI API or any other LLM provider. We’ll provide you with a temporary API key to cover any costs.
+You can use the OpenAI API or any other LLM provider. We’ll provide you with a temporary API key to cover any costs.
 
 ### Submission
 For submission, please send us a zip file containing your code.
