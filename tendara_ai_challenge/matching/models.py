@@ -1,6 +1,6 @@
 from datetime import datetime
 from typing import List
-from openai import BaseModel
+from pydantic import BaseModel
 
 class Notice(BaseModel):
     """A tender notice published on a procurement portal.
