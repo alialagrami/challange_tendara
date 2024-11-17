@@ -1,4 +1,4 @@
-from tendara_ai_challenge.matching.LLM import LLM
+from tendara_ai_challenge.Chroma.LLM import LLM
 import chromadb
 import uuid
 from datetime import datetime

@@ -1,7 +1,7 @@
 from typing import List
 from tendara_ai_challenge.matching.models import Notice
 from tendara_ai_challenge.matching.search_profile import CompanySearchProfile
-from tendara_ai_challenge.matching.Chroma import ChromaSingleton
+from tendara_ai_challenge.Chroma.Chroma import ChromaSingleton
 
 client = ChromaSingleton()
 
